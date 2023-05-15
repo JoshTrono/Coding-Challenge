@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    linked-list (0.0.16)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  linked-list
+
+BUNDLED WITH
+   2.4.10
