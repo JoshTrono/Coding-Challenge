@@ -1,4 +1,3 @@
-package day_7_6;
 
 public class MaxNumberFinder {
 
